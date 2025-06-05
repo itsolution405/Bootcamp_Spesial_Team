@@ -31,6 +31,11 @@ body {
   background: #2e2e2e;
 }
 
+p,
+.tentang {
+  color: #7f7f7f;
+}
+
 .message_submit_form:focus {
   outline: none;
 }
